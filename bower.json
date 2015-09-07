@@ -1,0 +1,23 @@
+{
+  "name": "beatpicker-fork",
+  "description": "Date time picker",
+  "main": [
+    "js/BeatPicker.js",
+    "css/BeatPicker.css"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "authors": [
+    "Keir Lavelle <keir.lavelle@retrofuzz.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
